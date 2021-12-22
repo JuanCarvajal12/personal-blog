@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<h1>About my blog...</h1>
+<h2>About my blog...</h2>
 
 <div>
     <img src="assets/My_pp.jpeg"
