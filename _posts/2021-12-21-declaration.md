@@ -7,7 +7,7 @@ categories: general
 
 Today, on Dec 21, 2021, I started building this personal website. Here, I'll start publicly sharing ideas about my work, and my interests.
 
-At this moment, I'm a 22 yo astronomy student at Universidad de Antioquia, Colombia (soon to be an astronomer in 2022). I have a wide range of interests, but to be brief, I like learning stuff to the point I would dedicate my life to it.
+At this moment, I'm a 22 yo astronomy student at Universidad de Antioquia, Colombia (soon to be an astronomer in 2022). I have a wide range of interests, but to be brief, I love learning stuff, to the point I would dedicate my life to doing so.
 
 On Natural Sciences, I'm passionate about physics and astrophysics; I enjoy programming and am interested in technology. I, recently, also started learning about Social Sciences (economy in particular).
 
