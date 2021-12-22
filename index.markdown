@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<h1>About this blog...</h1>
+<h1>About my blog...</h1>
 
 <div>
     <img src="assets/My_pp.jpeg"
@@ -15,7 +15,7 @@ layout: home
         height="30%" />
 </div>
 
-Hi, and welcome to my blog! My name is Juan. I'm an astronomy student at Universidad de Antioquia, Colombia. I'm in my last year at the Uni, learning about varied things and working on different projects.
+Hi! welcome to my blog, I'm Carva! I'm an astronomy student at Universidad de Antioquia, Colombia. I'm in my last year at the Uni, learning about varied things and working on different projects.
 
 In this blog I'll update about my current lines of work and study, and share the ideas that I think are worth reading (or worth writing for myself!).
 
